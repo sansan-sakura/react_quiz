@@ -1,5 +1,3 @@
-import { QuizProvider } from "./QuizContext";
-
 function Main({ children }) {
   return <main className="main">{children}</main>;
 }
